@@ -1,0 +1,5 @@
+{
+	"ip":"Eonlynsmp.aternos.me",
+	"port": "34340",
+	"name": "bot"
+}
